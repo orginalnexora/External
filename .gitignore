@@ -1,0 +1,22 @@
+﻿# Visual Studio / C++
+.vs/
+.vscode/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.aps
+*.pch
+*.ipch
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.dll
+*.log
+*.tlog
+*.lastbuildstate
+
+.idea/
